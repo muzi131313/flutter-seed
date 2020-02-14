@@ -1,6 +1,6 @@
 # flutterseed
 
-A new Flutter project.
+flutterseed
 
 ## Getting Started
 
@@ -17,7 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 技术栈
 
-- [redux]()
+- [redux](https://pub.dev/packages/redux)
+- [flutter-redux](https://pub.dev/packages/flutter-redux)
+- [dio](https://pub.dev/packages/dio)
 
 ## 规范相关
 
